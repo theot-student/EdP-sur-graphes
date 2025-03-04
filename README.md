@@ -16,3 +16,4 @@ les données. Ensuite, il introduits les outils de bases des EdP. Il
 revient après sur l'étude théorique de l'équation Eikonale.
 Enfin, il propose l'implémentation des algorithmes de résolutions
 de ce problème. 
+Vous pouvez accéder directement au notebook colab ici : https://colab.research.google.com/drive/1l72WoGdJ7ZLrqK0B7thqcsMlux71trpI?usp=sharing
